@@ -101,21 +101,5 @@ __Non-Local Patch (left) and Deep Prior (right)__
 ![patch](https://github.com/fmerizzi/Deep_image_prior_inpainting_of_ancient_frescoes/blob/main/images/patch/detail3_sebatiano_patch.png)
 ![prior](https://github.com/fmerizzi/Deep_image_prior_inpainting_of_ancient_frescoes/blob/main/images/deep_prior/detail3_full256_deepprior.jpeg)
 
-### San Sebastiano Detail 2 
-
-__mask__
-
-![mask](https://github.com/fmerizzi/Deep_image_prior_inpainting_of_ancient_frescoes/blob/main/images/detail2_Sebastiano_maskAndOriginal.png)
-
-__Telea's (left) and Sapiro's (right)__
-
-![telea](https://github.com/fmerizzi/Deep_image_prior_inpainting_of_ancient_frescoes/blob/main/images/local_algorithms/Telea_Sebastiano_detail2.png)
-![telea](https://github.com/fmerizzi/Deep_image_prior_inpainting_of_ancient_frescoes/blob/main/images/local_algorithms/Telea_Sebastiano_detail2.png)
-
-__Non-Local Patch (left) and Deep Prior (right)__
-
-![patch](https://github.com/fmerizzi/Deep_image_prior_inpainting_of_ancient_frescoes/blob/main/images/patch/detail2_sebastiano_patch.png)
-![prior](https://github.com/fmerizzi/Deep_image_prior_inpainting_of_ancient_frescoes/blob/main/images/deep_prior/detail2_full256.jpeg)
-
 
 
