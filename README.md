@@ -2,6 +2,11 @@
 This repository contains the code relative to the publication "Deep image prior inpainting of ancient frescoes in
 the Mediterranean Alpine arc"
 
+
+### deep image prior animation sample
+![Lusuria, deep prior animation sample](https://github.com/fmerizzi/Deep_image_prior_inpainting_of_ancient_frescoes/blob/main/images/deep_prior/Lusuria_sample_gif.gif)
+
+
 ## file list 
 
 - [Baseline_methods_inpainting.ipynb](https://github.com/fmerizzi/Deep_image_prior_inpainting_of_ancient_frescoes/blob/main/Baseline_methods_inpainting.ipynb), Testing baseline methods for image inpainting, using opencv library.
@@ -61,9 +66,6 @@ __no skip connection (left) and full skip connections (right)__
 ![preparing](https://github.com/fmerizzi/Deep_image_prior_inpainting_of_ancient_frescoes/blob/main/images/deep_prior/detail1_Lusuria_full256skip.png)
 
 As we can see, ther skip connection reduce the detail in the inpainted areas, but in our situation some "smoothing" is not as bad thing. Hybrid approaches are also possible. 
-
-### deep image prior animation sample
-![Lusuria, deep prior animation sample](https://github.com/fmerizzi/Deep_image_prior_inpainting_of_ancient_frescoes/blob/main/images/deep_prior/Lusuria_sample_gif.gif)
 
 ## general comparison
 In this section we compare all the previous methods. We can see that the patch approach is almost as good as deep image prior, and it achieves the results with a much lower computational cost. However, deep image prior is much more robust to artifacts, as can be clearly seen in the text cleaning example.
